@@ -1,0 +1,31 @@
+:root {
+    --dark-blue:#003366;
+    --yellow:#FFCC00;
+    --light-blue:#FFCC00;
+}
+
+body{
+    background-color: rgb(200, 222, 244);
+    padding: 0%;
+    margin: 0%;
+}
+.hero-header{
+    text-align:center;
+}
+.nav-bar {
+    background-color: white;
+}
+.nav-bar ul{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: rgb(60, 153, 200);
+}
+.center{
+    text-align: center;
+}
